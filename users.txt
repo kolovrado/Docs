@@ -1,0 +1,6 @@
+nipi%name of director
+nipidoc%document of director's hiring
+nipidol%job title
+zavpes%economist
+chef%chef of lab
+boss%name of agreemennt assistant

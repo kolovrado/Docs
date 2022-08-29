@@ -1,0 +1,2 @@
+director1@document of reg1@job title1%director2@document of reg2@job title2
+performer1, performer2

@@ -1,0 +1,11 @@
+Name of company
+mane of director
+director docs
+company location
+Bank
+company ID
+company request and date
+type of work (shortly)
+type of work (Full)
+Price
+
